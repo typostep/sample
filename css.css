@@ -2,7 +2,7 @@ body{
   background-color:#98df9c;
 }
 section,footer,div,p,article{
-  
+  font-family:"Comic Sans MS";
   font-weight: bold;
   font-size: 15px;
 }
@@ -10,16 +10,16 @@ section,footer,div,p,article{
 a{
   color:#0000ee;
   font-weight: bold;
-  
+  font-family:"Comic Sans MS";
 }
 h1{
   font-size: 27px;
-  
+  font-family:"Comic Sans MS";
   color: #b91313;
 }
 h2{
   font-size: 27px;
-  
+  font-family:"Comic Sans MS";
   color: #b91313;
   background-color: #98df9c;
 }
